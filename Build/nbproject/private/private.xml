@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/ardrone_testing_tool.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/Navdata/navdata.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/Gamepad/gamepad.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/Gamepad/gamepad.h</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/ARDroneLib/Soft/Lib/ardrone_tool/ardrone_version.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/VP_Os/vp_os_types.h</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/Video/video_stage.h</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/Examples/Linux/sdk_demo/Sources/Video/video_stage.c</file>
+        <file>file:/media/TI106068W0B/Users/Alexis/Dropbox/ARDrone_SDK_2_0_1/ARDroneLib/VP_SDK/ATcodec/ATcodec_api.c</file>
+    </open-files>
+</project-private>
